@@ -4,3 +4,4 @@ flask-sqlalchemy
 flask-wtf
 flask-migrate
 flask-login
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
